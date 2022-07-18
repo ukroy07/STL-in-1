@@ -13,7 +13,7 @@
 
 DATA STRUCTURE covered ->  
 
-1.-> CONTAINER ---
+1.-> CONTAINER :-
 
 a) ARRAY
 b) VECTOR 
@@ -25,7 +25,7 @@ g) PRIORITY QUEUE
 h) SET
 i) MAP
 
-2.-> ALGORITHMS
+2.-> ALGORITHMS :-
 
 a) Binary SEARCH
 b) Lower/Upper BOUND
